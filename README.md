@@ -10,6 +10,8 @@ Nodejs, npm, webpack, babel
 -> Entre na pasta e instale as dependências com **npm install**
 
 
+
 ## Acessando
+No terminal do nodejs e dentro da pasta do projeto digite **webpack-dev-server**
 Vá ao navegador e digite http://localhost:8080/
 
